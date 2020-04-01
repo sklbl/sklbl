@@ -1,0 +1,13 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ABDCE8
+  secondary: ABDCE8
+  secondary-dark: 333
+  muted: 777
+  logo: 2BF62A
+
+# Font Families
+font:
+  primary: 'Arial, "Arial",Arial,sans-serif'
+  secondary: 'Arial, "Arial",Arial,sans-serif'
+  logo: '"Courier", Courier, monospace'
